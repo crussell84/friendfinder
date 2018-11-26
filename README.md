@@ -8,18 +8,14 @@
 
 ## Demo
 	
-*What Pony* is deployed to Heroku. Please check it out [here]().
+*What Pony* is deployed to Heroku. Please check it out [here](https://whichpony.herokuapp.com/).
 
 ## Installation
 
 To install the application follow the instructions below:
 
-	git clone 
-	cd whatPokemon
-	npm install
-	
-## Running Locally
-
-	node server.js
+- Clone/download the repo
+- Navigate into the directory and `npm install`
+- `node server` to start the local server
 	
 The application will now be running locally on `PORT`, in this case that is port 3000. You can then access it locally from your browser at the URL `localhost:PORT`, in this case `localhost:3000`.
