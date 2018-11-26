@@ -1,0 +1,67 @@
+var allponies = [{
+    "name":"Applejack",
+    "photo":"./images/applejack.jpg",
+    "scores":[
+        5,
+        2,
+        4,
+        1,
+        5,
+        1,
+        2,
+        3,
+        4,
+        1
+      ]
+  },
+  {
+    "name":"Fluttershy",
+    "photo":"./images/fluttershy.jpg",
+    "description": '',
+    "scores":[
+        5,
+        1,
+        1,
+        5,
+        2,
+        1,
+        2,
+        1,
+        4,
+        1
+      ]
+  },
+  {
+    "name":"Rainbow Dash",
+    "photo":"./images/rainbowdash.jpg",
+    "scores":[
+        1,
+        5,
+        4,
+        3,
+        5,
+        1,
+        2,
+        3,
+        4,
+        1
+      ]
+  },
+  {
+    "name":"Twilight Sparkle",
+    "photo":"./images/twilightsparkle.png",
+    "scores":[
+        3,
+        1,
+        4,
+        1,
+        3,
+        1,
+        2,
+        5,
+        1,
+        1
+      ]
+  }
+]
+module.exports = allponies;
